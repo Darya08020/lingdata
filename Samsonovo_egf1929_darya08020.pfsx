@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="TimeLineViewer.EditBoxAlwaysInView">
+        <Boolean>false</Boolean>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>text@egr1929f</String>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <pref key="MediaControlRate">
+        <Float>0.6</Float>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="text@egr1929f">
+            <Object class="java.awt.Color">90,0,0</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>text@egr1929f</String>
+    </prefList>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+</preferences>
